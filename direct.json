@@ -7,7 +7,38 @@
         "baidu.com",
         "bilibili.com",
         "taobao.com",
-        "jd.com"
+        "jd.com",
+        "chuangkit.com",
+        "dnsv1.com.cn",
+        "ovscdns.com",
+        "cdngslb.com",
+        "qcloudzygj.com",
+        "myqcloud.com",
+        "growingio.com",
+        "giocdn.com",
+        "udesk.cn",
+        "aliyunddos1029.com",
+        "pinduoduo.com",
+        "scm121.com",
+        "tailscale.com",
+        "ts.net",
+        "local"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "10.0.0.0/8",
+        "172.16.0.0/12",
+        "192.168.0.0/16",
+        "127.0.0.0/8",
+        "169.254.0.0/16",
+        "100.64.0.0/10",
+        "224.0.0.0/4",
+        "255.255.255.255/32",
+        "::1/128",
+        "fc00::/7",
+        "fe80::/10",
+        "ff00::/8"
       ]
     }
   ]
